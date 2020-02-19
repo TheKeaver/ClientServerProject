@@ -19,7 +19,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#define SERVER_PORT 5432
+#define SERVER_PORT 1234
 #define MAX_LINE 256
 
 int main(int argc, char * argv[])
