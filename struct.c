@@ -9,7 +9,7 @@
 #include<stdlib.h>
 #include<unistd.h>
 
-#define SERVER_PORT 5006
+#define SERVER_PORT 1234
 #define MAX_PENDING 5
 #define MAX_LINE 256
 
